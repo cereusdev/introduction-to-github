@@ -8,5 +8,5 @@ Welcome to my Github profile!
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
--[] Test 1
--[x] Test 2
+- [ ] Test 1
+- [x] Test 2
